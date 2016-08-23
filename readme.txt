@@ -1,7 +1,7 @@
 === Shortcodely ===
 Contributors: patilswapnilv, shefalishirodkar20
 Plugin Name: shortcodely
-Plugin URI: https://github.com/shefalinatekar/rapidfire
+Plugin URI: https://github.com/shefalinatekar/shortcodely
 Tags: shortcode, widget, page, templates, page template, widget_area, sidebar
 Author: patilswapnilv,shefalishirodkar
 License: GPLv3 or later
